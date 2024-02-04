@@ -1,5 +1,14 @@
 ### Instructions 
 
+0. Cloner le projet : 
+- Clonez le projet depuis le dépôt GitHub de votre formateur.
+- A la racine du projet, supprimez le dossier `.git` pour supprimer l'historique du projet. (`rm -rf .git`)
+- Versionnez le projet avec git en initialisant un nouveau dépôt (`git init`).
+- Faites un premier commit pour initialiser le dépôt (`git add .` puis `git commit -m "Initial commit"`).
+- Créez un nouveau dépôt sur GitHub et liez-le à votre projet local (`git remote add origin <url_du_nouveau_depot>`).
+- Ajouter les collaborateurs à votre dépôt sur GitHub.
+- Commencez à travailler sur le projet.
+
 1. Accueil - index.html <br>
 - La page d'accueil est déjà complète. Utilisez-la comme référence pour comprendre la structure HTML, le code CSS et les fonctionnalités JavaScript. 
 - Observez comment les 3 premières inventions sont affichées dans la section "Inventions Magiques". Les détails sont déjà inclus en tant qu'exemple.
